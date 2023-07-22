@@ -68,13 +68,13 @@ data class Plant(
 
 
 
-<img src="https://github.com/ganeshroman/User_List/blob/c0c8f88fa66d3e0b603f12a5c8577414ba55d06d/Screenshot%202023-06-28%20at%204.18.52%20PM.png" width="250" height="450">
+<img src="https://github.com/ganeshroman/Jetpack_Compose_List/blob/6ff496111737682edba9a7cf406a71282e020673/Screenshot%202023-07-22%20at%201.41.39%20PM.png" width="250" height="450">
 
 
 #### Screenshots
 
 
-<img src="https://github.com/ganeshroman/User_List/blob/6fc1f11e89713147eec613d967bd5bf35490fa8d/Screenshot_20230722_134811.png" width="250" height="450">
+<img src="https://github.com/ganeshroman/Jetpack_Compose_List/blob/6ff496111737682edba9a7cf406a71282e020673/Screenshot_20230722_134811.png" width="250" height="450">
 
 
 
